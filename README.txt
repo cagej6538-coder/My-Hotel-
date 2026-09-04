@@ -1,4 +1,4 @@
-GRAND CROWN HOTEL & SUITES — GITHUB PAGES VERSION
+SILVER CLARKS HOTEL & SUITES — GITHUB PAGES VERSION
 
 1. Upload index.html, style.css and app.js to the ROOT of your GitHub repository.
 2. Go to Settings > Pages.
